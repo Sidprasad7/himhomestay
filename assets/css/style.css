@@ -2286,13 +2286,13 @@ footer {
   height: 100vh;
 }
 .rx-slider .slide-1 {
-  background-image: url("../img/hero/hero-1.png");
+  background-image: url("../img/hero/hero-1.jpg");
 }
 .rx-slider .slide-2 {
-  background-image: url("../img/hero/hero-2.png");
+  background-image: url("../img/hero/hero-2.jpg");
 }
 .rx-slider .slide-3 {
-  background-image: url("../img/hero/hero-3.png");
+  background-image: url("../img/hero/hero-3.jpg");
 }
 
 .rx-slide .banner-arrow-img {
